@@ -15,6 +15,23 @@
 
    - Open a terminal or command prompt in the directory where you extracted the ZIP file.
 
+  ##MacOS/Linux
+  
+     ```bash
+        command + spacebar
+        type in "Terminal"
+        click enter
+
+        cd ~/Downloads
+     ```
+
+ ##Windows
+    Navigate to the Directory:
+
+   Open the File Explorer and navigate to the directory where you extracted the ZIP file.
+   Hold down the Shift key and right-click on an empty area within the directory.
+   Select "Open PowerShell window here" or "Open Command Prompt here" from the context menu.
+
 4. **Compile the Java Files:**
 
    - Run the following command to compile the Java files:
