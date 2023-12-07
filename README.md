@@ -15,9 +15,9 @@
 
    - Open a terminal or command prompt in the directory where you extracted the ZIP file.
 
-  ##MacOS/Linux
+  ## MacOS/Linux
   
-     ```bash
+     ```
         command + spacebar
         type in "Terminal"
         click enter
@@ -25,7 +25,7 @@
         cd ~/Downloads
      ```
 
- ##Windows
+ ## Windows
     Navigate to the Directory:
 
    Open the File Explorer and navigate to the directory where you extracted the ZIP file.
